@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8784dff6-6113-4bd0-8d76-207f2b0f9d6f" name="julia.guardian_samples_mobile.element-studio.ru/" url="http://julia.guardian_samples_mobile.element-studio.ru/">
+        <fileTransfer host="office.element-studio.ru" port="22" privateKey="C:\Users\аа\.ssh\id_rsa_office_element" rootFolder="/var/www/vhosts/_julia/julia.guardian_samples_mobile.element-studio.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
